@@ -1,39 +1,39 @@
 [
   {
     "full_name": "HashLips/generative-art-node",
-    "stargazers_count": 543,
-    "open_issues_count": 25,
-    "forks_count": 147
+    "stargazers_count": 636,
+    "open_issues_count": 30,
+    "forks_count": 181
   },
   {
     "full_name": "benyaminahmed/nft-image-generator",
-    "stargazers_count": 718,
-    "open_issues_count": 7,
-    "forks_count": 175
+    "stargazers_count": 768,
+    "open_issues_count": 10,
+    "forks_count": 212
   },
   {
     "full_name": "benbusby/whoogle-search",
-    "stargazers_count": 3819,
-    "open_issues_count": 42,
-    "forks_count": 389
+    "stargazers_count": 3868,
+    "open_issues_count": 43,
+    "forks_count": 392
   },
   {
     "full_name": "maticnetwork/contracts",
-    "stargazers_count": 281,
-    "open_issues_count": 34,
+    "stargazers_count": 284,
+    "open_issues_count": 33,
     "forks_count": 120
   },
   {
     "full_name": "onflow/flow",
-    "stargazers_count": 214,
-    "open_issues_count": 57,
-    "forks_count": 62
+    "stargazers_count": 215,
+    "open_issues_count": 58,
+    "forks_count": 63
   },
   {
     "full_name": "aquasecurity/trivy",
-    "stargazers_count": 8406,
-    "open_issues_count": 146,
-    "forks_count": 747
+    "stargazers_count": 8434,
+    "open_issues_count": 139,
+    "forks_count": 749
   },
   {
     "full_name": "MichaelJolley/discord-guy-bot",
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "jonaslejon/malicious-pdf",
-    "stargazers_count": 981,
+    "stargazers_count": 1000,
     "open_issues_count": 0,
-    "forks_count": 91
+    "forks_count": 100
   },
   {
     "full_name": "riramar/hsecscan",
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "snipsnapdev/snipsnap",
-    "stargazers_count": 1024,
+    "stargazers_count": 1023,
     "open_issues_count": 15,
-    "forks_count": 29
+    "forks_count": 30
   },
   {
     "full_name": "lukeocodes/dev-hearts",
@@ -79,21 +79,21 @@
   },
   {
     "full_name": "sethcottle/littlelink",
-    "stargazers_count": 174,
+    "stargazers_count": 176,
     "open_issues_count": 1,
-    "forks_count": 158
+    "forks_count": 159
   },
   {
     "full_name": "sniptt-official/ots",
-    "stargazers_count": 1373,
+    "stargazers_count": 1377,
     "open_issues_count": 0,
     "forks_count": 34
   },
   {
     "full_name": "raspberrypi/documentation",
-    "stargazers_count": 4296,
-    "open_issues_count": 28,
-    "forks_count": 1771
+    "stargazers_count": 4300,
+    "open_issues_count": 23,
+    "forks_count": 1774
   },
   {
     "full_name": "asos-craigmorten/opine",
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "backstage/backstage",
-    "stargazers_count": 12879,
-    "open_issues_count": 357,
-    "forks_count": 1548
+    "stargazers_count": 12922,
+    "open_issues_count": 360,
+    "forks_count": 1558
   },
   {
     "full_name": "callowcreation/banwannabefamousbots",
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "lowlighter/metrics",
-    "stargazers_count": 3843,
-    "open_issues_count": 9,
-    "forks_count": 270
+    "stargazers_count": 3873,
+    "open_issues_count": 5,
+    "forks_count": 273
   },
   {
     "full_name": "hacktivist123/content-plan-example",
@@ -133,26 +133,26 @@
   },
   {
     "full_name": "testjavascript/nodejs-integration-tests-best-practices",
-    "stargazers_count": 1221,
+    "stargazers_count": 1229,
     "open_issues_count": 38,
-    "forks_count": 56
+    "forks_count": 59
   },
   {
     "full_name": "MunGell/awesome-for-beginners",
-    "stargazers_count": 34357,
-    "open_issues_count": 37,
-    "forks_count": 5026
+    "stargazers_count": 34413,
+    "open_issues_count": 39,
+    "forks_count": 5037
   },
   {
     "full_name": "electron/electron",
-    "stargazers_count": 96577,
-    "open_issues_count": 1265,
-    "forks_count": 12616
+    "stargazers_count": 96639,
+    "open_issues_count": 1253,
+    "forks_count": 12629
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 329396,
-    "open_issues_count": 152,
+    "stargazers_count": 329520,
+    "open_issues_count": 151,
     "forks_count": 26501
   },
   {
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "onflow/fcl-js",
-    "stargazers_count": 192,
-    "open_issues_count": 21,
+    "stargazers_count": 193,
+    "open_issues_count": 23,
     "forks_count": 50
   },
   {
     "full_name": "TheAlgorithms/Python",
-    "stargazers_count": 116049,
-    "open_issues_count": 40,
-    "forks_count": 31349
+    "stargazers_count": 116995,
+    "open_issues_count": 44,
+    "forks_count": 31460
   }
 ]
